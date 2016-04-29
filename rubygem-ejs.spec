@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ejs
 Version  : 1.1.1
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/ejs-1.1.1.gem
 Source0  : https://rubygems.org/downloads/ejs-1.1.1.gem
 Summary  : No detailed summary available
